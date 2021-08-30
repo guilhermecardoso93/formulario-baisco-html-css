@@ -1,0 +1,253 @@
+section {
+  display: block;
+  margin: center center;
+  background-color: #F7F8FA;
+  margin-top: 80px;
+  padding:40px;
+  padding-right:10px;
+  padding-bottom: 25px;
+  max-width:500px;
+  border-radius: 5px;
+  -webkit-box-shadow: -9px -15px 18px -2px rgba(0,0,0,0.46); 
+  box-shadow: -9px -15px 18px -2px rgba(0,0,0,0.46);
+  align-items:center;
+  border-radius:5%;
+  border: 2px solid  rgb(23, 67, 149);/*linear-gradient( to top right,  #F7F8FA, #E6E8EB, #AFB2B1, );*/
+  
+  }
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('https://cdn.gamer-network.net/2013/usgamer/PokemonSiri-header.png/EG11/thumbnail/1920x1080/format/jpg/quality/65/25-07-2017-what-are-the-strongest-most-competitive-pokemon-thatll-help-you-build-the-best-team.jpg');
+  background-size: 45rem;
+}
+
+#titulo{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(23, 67, 149);
+  margin-left: 18%;
+  font-size: 2em;
+}
+
+#subtitulo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: cornflowerblue;
+  margin-left: 22%;
+  font-size: 1.15em;
+}
+
+fieldset {
+  border:0;
+}
+
+body{
+  background-color: #f0f8ff;
+  font-family:sans-serif;
+  font-size: 1em;
+  color:rgb(23, 67, 149);
+  margin-left: 36%;
+  margin-top: 2%;
+  justify-content: center;
+}
+
+input, select, textarea, button {
+  border-radius: 5px;
+}
+
+.grupo:before, .grupo:after {
+  display: table;
+}
+
+.grupo:after {
+  clear: both;
+}
+
+.campo {
+  margin-bottom: 1em;
+}
+
+.campo label{
+  margin-bottom:0.2rem;
+  color:rgb(23, 67, 149);
+  display:block;
+}
+
+fieldset.grupo .campo{
+  float: left;
+  margin-right:1em;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea { 
+  padding:0.2em;
+  border: 1px solid  rgb(23, 67, 149);
+  box-shadow:2px 2px 2px rgba(1,0,0,0,0.2);
+  display:block;
+}
+
+.campo select option{
+  padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+  background:#e0e0f8;
+}
+
+.button {
+  font-size: 1.25rem;
+  background:rgba(23, 67, 149);
+  border:0;
+  margin-bottom: 1em;
+  color:azure;
+  padding:0.2em 0.6em;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  position: absolute;
+  top:93%;
+  left:53%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.button:hover {
+  background: #dbdadf;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: none;
+}
+
+.button, select{
+  cursor: pointer;
+}
+
+#check {
+  display: inline-block;
+}section {
+  display: block;
+  margin: center center;
+  background-color: #F7F8FA;
+  margin-top: 80px;
+  padding:40px;
+  padding-right:10px;
+  padding-bottom: 25px;
+  max-width:500px;
+  border-radius: 5px;
+  -webkit-box-shadow: -9px -15px 18px -2px rgba(0,0,0,0.46); 
+  box-shadow: -9px -15px 18px -2px rgba(0,0,0,0.46);
+  align-items:center;
+  border-radius:5%;
+  border: 2px solid  rgb(23, 67, 149);/*linear-gradient( to top right,  #F7F8FA, #E6E8EB, #AFB2B1, );*/
+  
+  }
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('https://cdn.gamer-network.net/2013/usgamer/PokemonSiri-header.png/EG11/thumbnail/1920x1080/format/jpg/quality/65/25-07-2017-what-are-the-strongest-most-competitive-pokemon-thatll-help-you-build-the-best-team.jpg');
+  background-size: 45rem;
+}
+
+#titulo{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(23, 67, 149);
+  margin-left: 18%;
+  font-size: 2em;
+}
+
+#subtitulo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: cornflowerblue;
+  margin-left: 22%;
+  font-size: 1.15em;
+}
+
+fieldset {
+  border:0;
+}
+
+body{
+  background-color: #f0f8ff;
+  font-family:sans-serif;
+  font-size: 1em;
+  color:rgb(23, 67, 149);
+  margin-left: 36%;
+  margin-top: 05%;
+  margin-bottom: 05%;
+  justify-content: center;
+}
+
+input, select, textarea, button {
+  border-radius: 5px;
+}
+
+.grupo:before, .grupo:after {
+  display: table;
+}
+
+.grupo:after {
+  clear: both;
+}
+
+.campo {
+  margin-bottom: 1em;
+}
+
+.campo label{
+  margin-bottom:0.2rem;
+  color:rgb(23, 67, 149);
+  display:block;
+}
+
+fieldset.grupo .campo{
+  float: left;
+  margin-right:1em;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea { 
+  padding:0.2em;
+  border: 1px solid  rgb(23, 67, 149);
+  box-shadow:2px 2px 2px rgba(1,0,0,0,0.2);
+  display:block;
+  margin-bottom: 2rem;
+}
+
+.campo select option{
+  padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+  background:#e0e0f8;
+}
+
+.button {
+  font-size: 1.25rem;
+  background:rgba(23, 67, 149);
+  border:0;
+  margin-bottom: 1em;
+   color:azure;
+  padding:0.2em 0.6em;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  position: relative; 
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.button:hover {
+  background: #dbdadf;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: none;
+}
+
+.button, select{
+  cursor: pointer;
+}
+
+#check {
+  display: inline-block;
+}
